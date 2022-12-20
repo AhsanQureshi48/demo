@@ -1,0 +1,113 @@
+<div class="clean_slider">
+    <div class="page-width">
+        <div class="cl_slider_inn_wrp">
+            <div class="cl_slide_heading heading">
+                {% if section.settings.title != blank %}
+                    <h2>
+                        {{section.settings.title}}
+                    </h2>
+                {% endif %}
+                {% if section.settings.content != blank %}
+                    <p>
+                        {{section.settings.content}}
+                    </p>
+                {% endif %}
+            </div>
+            <div class="clean_block_slider">
+                {% for block in section.blocks %}
+                    <div class="clean_slide_block">
+                      <div class="clean_inn_slide_block">
+                        <div class="clean_slide_img">
+                            {% if block.settings.block_image != blank %}
+                                <img src="{{block.settings.block_image | img_url: 'master' }}" alt="">
+                            {% endif %}
+                        </div>
+                        <div class="clean_slide_btn_txt">
+                          <div class="clean_mn_block">
+                             {% if block.settings.title != blank %}
+                            <h5>
+                                {{block.settings.title}}
+                            </h5>
+                        {% endif %}
+                            {% if block.settings.content != blank %}
+                            <p>
+                                {{block.settings.content}}
+                            </p>
+                        {% endif %}
+                            <div class="clean_slide_btn">
+                                {% if block.settings.button_link != blank %}
+                                    <a href="{{block.settings.button_link}}">
+                                        {{block.settings.button_label}}
+                                    </a>
+                                {% endif %}
+                            </div>
+                          </div>
+                        </div>
+                    </div>
+                    </div>
+            {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+{% schema %}
+{
+  "name": "Clean Slider",
+  "class": "clean_slider",
+  "settings": [
+            {
+              "type": "text",
+              "id": "title",
+              "label": "Title"
+            },
+            {
+              "type": "textarea",
+              "id": "content",
+              "label": "Content"
+            }
+  ],
+  "blocks": [
+        {
+          "name": "Block Content",
+          "type": "blockContent",
+          "settings": [
+            {
+              "type": "image_picker",
+              "id": "block_image",
+              "label": "Block Image"
+            },
+            {
+              "type": "text",
+              "id": "title",
+              "label": "Title"
+            },
+            {
+              "type": "textarea",
+              "id": "content",
+              "label": "Content"
+            },
+            {
+              "type": "text",
+              "id": "button_label",
+              "label": "Button Label"
+            },
+            {
+              "type": "url",
+              "id": "button_link",
+              "label": "Button Link"
+            }
+          ]
+        }
+      ],
+  "presets": [
+    {
+      "name": "Clean Slider",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}
+{% stylesheet %}
+{% endstylesheet %}
+{% javascript %}
+{% endjavascript %}

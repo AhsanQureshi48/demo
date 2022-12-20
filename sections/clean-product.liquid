@@ -1,0 +1,147 @@
+<div class="clean_products {{ section.settings.add_class }}">
+  <div class="page-width">
+    <div class="clean_inn_wrp">
+      <div class="clean_heading heading">
+        {% if section.settings.title != blank %}
+          <h2>
+            {{ section.settings.title }}
+          </h2>
+        {% endif %}
+        {% if section.settings.content != blank %}
+          <p>
+            {{ section.settings.content }}
+          </p>
+        {% endif %}
+      </div>
+      <div class="clean_block">
+        {% for block in section.blocks %}
+          <div class="clean_mn_block">
+            {% if block.settings.block_image != blank %}
+              <div class="clean_inn_block">
+                <div class="clean_img">
+                  <img src="{{block.settings.block_image | img_url: 'master' }}" alt="">
+                </div>
+              </div>
+            {% endif %}
+            {% if block.settings.title != blank %}
+              <div class="clean_text_button">
+                <div class="clean_text">
+                  <h6>
+                    {{ block.settings.title }}
+                  </h6>
+                </div>
+                <div class="clean_btn">
+                  {% if block.settings.button_link != blank %}
+                    <a href="{{block.settings.button_link}}">
+                      {{ block.settings.button_label }}
+                    </a>
+                  {% endif %}
+                </div>
+              </div>
+            {% endif %}
+            {% if block.settings.product_title != blank %}
+              <div class="explore_product">
+                <h5>
+                  {{ block.settings.product_title }}
+                </h5>
+                {% if block.settings.content != blank %}
+                  <p>
+                    {{ block.settings.content }}
+                  </p>
+                {% endif %}
+                <div class="clean_btn">
+                  {% if block.settings.button_sec_link != blank %}
+                    <a href="{{block.settings.button_sec_link}}">
+                      {{ block.settings.button_sec_label }}
+                    </a>
+                  {% endif %}
+                </div>
+              </div>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+{% schema %}
+{
+  "name": "Clean Products",
+  "class": "clean_products",
+  "settings": [
+    {
+              "type": "text",
+              "id": "add_class",
+              "label": "Custom Class"
+            },
+            {
+              "type": "text",
+              "id": "title",
+              "label": "Title"
+            },
+            {
+              "type": "textarea",
+              "id": "content",
+              "label": "Content"
+            }
+  ],
+  "blocks": [
+        {
+          "name": "Block Content",
+          "type": "blockContent",
+          "settings": [
+            {
+              "type": "image_picker",
+              "id": "block_image",
+              "label": "Block Image"
+            },
+            {
+              "type": "text",
+              "id": "title",
+              "label": "Title"
+            },
+            {
+              "type": "text",
+              "id": "product_title",
+              "label": "Product Title"
+            },
+            {
+              "type": "textarea",
+              "id": "content",
+              "label": "Content"
+            },
+            {
+              "type": "text",
+              "id": "button_label",
+              "label": "Button Label"
+            },
+            {
+              "type": "url",
+              "id": "button_link",
+              "label": "Button Link"
+            },
+            {
+              "type": "text",
+              "id": "button_sec_label",
+              "label": "Button Sec Label"
+            },
+            {
+              "type": "url",
+              "id": "button_sec_link",
+              "label": "Button Sec Link"
+            }
+          ]
+        }
+      ],
+  "presets": [
+    {
+      "name": "Clean Products",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}
+{% stylesheet %}
+{% endstylesheet %}
+{% javascript %}
+{% endjavascript %}

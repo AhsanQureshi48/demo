@@ -1,0 +1,100 @@
+<div class="do_not_just">
+    <div class="page-width">
+        <div class="flex hm_inn_bnr">
+            <div class="flex-left-col">
+                {% if section.settings.title != blank %}
+                    <h2>
+                        {{section.settings.title}}
+                    </h2>
+                {% endif %}
+                {% if section.settings.sub_title != blank %}
+                    <h6>
+                        {{section.settings.sub_title}}
+                    </h6>
+                {% endif %}
+                {% if section.settings.content != blank %}
+                <p>
+                    {{section.settings.content}}
+                </p>
+            {% endif %}
+                {% if section.settings.button_link != blank %}
+                <a href="{{section.settings.button_link}}">
+                    {{section.settings.button_label}}
+                </a>
+            {% endif %}
+            </div>
+            <div class="flex-right-col">
+              <div class="do-not-block">
+                {% for block in section.blocks %}
+                    <div class="block_image">
+                        {% if block.settings.block_image != blank %}
+                            <img src="{{block.settings.block_image | img_url: 'master' }}" alt="">
+                        {% endif %}
+                    </div>
+                {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% schema %}
+{
+  "name": "Do not Just",
+  "class": "dont_just",
+  "settings": [
+            {
+              "type": "text",
+              "id": "title",
+              "label": "Title"
+            },
+            {
+              "type": "text",
+              "id": "sub_title",
+              "label": "Sub Title"
+            },
+            {
+              "type": "textarea",
+              "id": "content",
+              "label": "Content"
+            },
+            {
+              "type": "image_picker",
+              "id": "column_image",
+              "label": "Column Image"
+            },
+            {
+              "type": "text",
+              "id": "button_label",
+              "label": "Button Label"
+            },
+            {
+              "type": "url",
+              "id": "button_link",
+              "label": "Button Link"
+            }
+  ],
+  "blocks": [
+        {
+          "name": "Block Content",
+          "type": "blockContent",
+          "settings": [
+            {
+              "type": "image_picker",
+              "id": "block_image",
+              "label": "Block Image"
+            }
+          ]
+        }
+      ],
+  "presets": [
+    {
+      "name": "Do not Just",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}
+{% stylesheet %}
+{% endstylesheet %}
+{% javascript %}
+{% endjavascript %}

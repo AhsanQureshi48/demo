@@ -1,0 +1,109 @@
+<div class="peaple_love {{ section.settings.add_class }}">
+  <div class="page-width">
+    <div class="people_inn_wrp">
+      <div class="people_heading heading">
+        {% if section.settings.title != blank %}
+          <h2>
+            {{ section.settings.title }}
+          </h2>
+        {% endif %}
+        {% if section.settings.content != blank %}
+          <p>
+            {{ section.settings.content }}
+          </p>
+        {% endif %}
+      </div>
+      <div class="people_block_slider">
+        {% for block in section.blocks %}
+          <div class="people_block">
+            <div class="people_flex">
+              <div class="people_img">
+                {% if block.settings.client_image != blank %}
+                  <img src="{{block.settings.client_image | img_url: 'master' }}" alt="">
+                {% endif %}
+              </div>
+              <div class="people_text">
+                {% if block.settings.client_feedback != blank %}
+                  <h6>
+                    {{ block.settings.client_feedback }}
+                  </h6>
+                {% endif %}
+                {% if block.settings.client_name != blank %}
+                  <p class="eigtheen">
+                    {{ block.settings.client_name }}
+                  </p>
+                {% endif %}
+                {% if block.settings.designation != blank %}
+                  <p class="fourteen">
+                    {{ block.settings.designation }}
+                  </p>
+                {% endif %}
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+{% schema %}
+{
+  "name": "Testimonial",
+  "class": "people_love",
+  "settings": [
+     {
+        "type": "text",
+        "id": "add_class",
+        "label": "Custom Class"
+      },
+            {
+              "type": "text",
+              "id": "title",
+              "label": "Title"
+            },
+            {
+              "type": "textarea",
+              "id": "content",
+              "label": "Content"
+            }
+  ],
+  "blocks": [
+        {
+          "name": "Block Content",
+          "type": "blockContent",
+          "settings": [
+            {
+              "type": "image_picker",
+              "id": "client_image",
+              "label": "Client Image"
+            },
+            {
+              "type": "textarea",
+              "id": "client_feedback",
+              "label": "Client Feedback"
+            },
+            {
+              "type": "textarea",
+              "id": "client_name",
+              "label": "Client Name"
+            },
+            {
+              "type": "textarea",
+              "id": "designation",
+              "label": "Designation"
+            }
+          ]
+        }
+      ],
+  "presets": [
+    {
+      "name": "Testimonial",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}
+{% stylesheet %}
+{% endstylesheet %}
+{% javascript %}
+{% endjavascript %}

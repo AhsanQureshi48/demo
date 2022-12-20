@@ -1,0 +1,64 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": false,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "a36383dd-d57f-4797-86e1-7b8a8b972c11": {
+      "type": "inner-banner",
+      "settings": {
+        "column_image": "shopify:\/\/shop_images\/Rectangle_1.png",
+        "title": "SinuPulse Product User Guides"
+      }
+    },
+    "c2fc24e0-7463-4819-8d5e-a4ae1b0eab96": {
+      "type": "clean-product",
+      "blocks": {
+        "51435a0c-b1e3-4479-87e6-2795f5e669c6": {
+          "type": "blockContent",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/image_45.png",
+            "title": "SinuPulse Elite - SP100\/220V",
+            "product_title": "",
+            "content": "",
+            "button_label": "Download",
+            "button_link": "#",
+            "button_sec_label": "",
+            "button_sec_link": ""
+          }
+        },
+        "da366039-4045-4c5e-adcd-b2e72a5bd039": {
+          "type": "blockContent",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/image_46.png",
+            "title": "SPT300 - SinuPulse Traveler",
+            "product_title": "",
+            "content": "",
+            "button_label": "Download",
+            "button_link": "#",
+            "button_sec_label": "",
+            "button_sec_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "51435a0c-b1e3-4479-87e6-2795f5e669c6",
+        "da366039-4045-4c5e-adcd-b2e72a5bd039"
+      ],
+      "settings": {
+        "add_class": "sinuplus_troubleshoot sinuplus_user_guide",
+        "title": "SinuPulse Product User Guides",
+        "content": "The SinuPulse Elite® and SinuPulse Traveler® irrigation systems provide an easy to use, 100% natural, pleasant method of nasal irrigation that is an effective way to cleanse the nasal passages and sinuses. The patented pulsating rinse technology helps control nasal and sinus symptoms by treating the root cause of the problem, rather than just treating the symptoms.\nThe SinuPulse irrigation systems provide consumers with a state of the art technology designed specifically for nasal irrigation. The gentle massaging and cleansing action of the SinuPulse Elite® and SinuPulse Traveler® help to clear the nasal passages and sinuses, break down biofilm, and remove bacteria at a rate 100X greater than non pulsating methods."
+      }
+    }
+  },
+  "order": [
+    "main",
+    "a36383dd-d57f-4797-86e1-7b8a8b972c11",
+    "c2fc24e0-7463-4819-8d5e-a4ae1b0eab96"
+  ]
+}

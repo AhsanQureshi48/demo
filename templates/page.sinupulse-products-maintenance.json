@@ -1,0 +1,198 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": false,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "98b4284f-c3b3-4801-9e18-c44af3530e57": {
+      "type": "inner-banner",
+      "settings": {
+        "column_image": "shopify:\/\/shop_images\/Rectangle_1.png",
+        "title": "SinuPulse Products Maintenance & Troubleshooting"
+      }
+    },
+    "5af9961e-cb8b-4ec9-aac2-669e9bda146e": {
+      "type": "video-block",
+      "blocks": {
+        "89054623-5508-4ee0-a4d4-87fb9f99bb03": {
+          "type": "blockContent",
+          "settings": {
+            "video": "<video controls>\n  <source src=\"mov_bbb.mp4\" type=\"video\/mp4\">\n  <source src=\"mov_bbb.ogg\" type=\"video\/ogg\">\n  Your browser does not support HTML video.\n<\/source><\/source><\/video>"
+          }
+        },
+        "86250f2a-a7bf-44d8-b128-a51467272f76": {
+          "type": "blockContent",
+          "settings": {
+            "video": "<video controls>\n  <source src=\"mov_bbb.mp4\" type=\"video\/mp4\">\n  <source src=\"mov_bbb.ogg\" type=\"video\/ogg\">\n  Your browser does not support HTML video.\n<\/source><\/source><\/video>"
+          }
+        }
+      },
+      "block_order": [
+        "89054623-5508-4ee0-a4d4-87fb9f99bb03",
+        "86250f2a-a7bf-44d8-b128-a51467272f76"
+      ],
+      "settings": {
+        "add_class": "video_mn_wrp",
+        "title": "SinuPulse Products Maintenance & Troubleshooting",
+        "sub_title": "Troubleshooting and Maintenance Tips",
+        "content": "Thank you for your purchase of our SinuPulse Elite Sinus Irrigation System. The following troubleshooting steps and maintenance tips will resolve most issues quickly and will ensure optimal performance."
+      }
+    },
+    "594a40de-3a78-4c8f-b7d5-7d5c6d15b7b9": {
+      "type": "custom-text",
+      "blocks": {
+        "5060ab1c-9d9c-400f-a6c4-11a52b313004": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Motor is running but the solution is not pumping or unit leaks - What do I do?",
+            "content": "1a) If the motor is running but the solution is not pumping, experiencing reduced water flow, or leaking appears under the unit - this is almost always a quick and easy fix. On the outside bottom of the water tank you will find a small black O-ring (Fig.1a). This seals the water tank when seated on top of the SinuPulse and helps regulate water flow. \n<br><br>\nThe O-ring may be dry and require lubrication prior to first use, from a period of regular use, or after a period of inactivity. To lubricate the O-ring simply apply a very small thin application of Vaseline with your finger around the O-ring which does not need to be removed. \n<br><br>\nA small application is all that is needed to ensure optimal performance with periodic applications 2-3X annually. Clean the SinuPulse Elite regularly as directed, including periodic dilute vinegar rinse, to minimize mineral deposits and calcification which can contribute to reduced performance (flow rate) and premature wear. Use of distilled water is recommended best for long term durability. Remember to empty water tank after each use, rinse thoroughly, and allow to air dry. Do not leave solution in water tank when not in use.",
+            "image": "shopify:\/\/shop_images\/image_28.png"
+          }
+        },
+        "12b3f816-ddfd-4982-a229-8edf9f2e6e5f": {
+          "type": "blockContent",
+          "settings": {
+            "title": "",
+            "content": "1b) If flow rate has not been properly restored which may also occur on first use it may just need some simple priming. Hold or place the handle with the sinus tip on the sink bottom below the height of the SinuPulse. \n<br><br>\nTurn the control knob, while the unit is running, from the lowest setting (1) to highest setting (7) and back to the lowest setting again (Fig 1b). Do this 2-3X (or more) to remove any air that may have become trapped in the system.",
+            "image": "shopify:\/\/shop_images\/image_29.png"
+          }
+        },
+        "698dd4df-4b35-44af-9781-8aaa52b0ba7c": {
+          "type": "blockContent",
+          "settings": {
+            "title": "",
+            "content": "1c) Carefully inspect the hose for any areas that might be pinched or crimped preventing the solution from exiting the tip.",
+            "image": "shopify:\/\/shop_images\/image_30.png"
+          }
+        },
+        "547c85d0-de9f-4626-bf99-db677d3569d8": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Water leaking from where hose inserts into the bottom of the handle\/wand",
+            "content": "The leaking described is almost always a result of the tip not being fully inserted. The tip needs to be inserted all the way and flush with top of the handle. A small amount of Vaseline around the base of the sinus tip as shown below (the end that goes into the handle) will help lubricate for an easy fit and secure seal. Sometimes the tip assembly can be dry on first use. This is recommended once or twice a year for maintenance as the tip assembly can become dry from continuous exposure to saline and mineral deposits. This is especially true if not using distilled water or after a period of inactivity.",
+            "image": "shopify:\/\/shop_images\/image_31.png"
+          }
+        },
+        "bece75a8-0b05-4a4e-b392-dfc02e3ed6ca": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Atomizer (spray) tip disengages during operation and leaks",
+            "content": "If the sinus or throat atomizer (spray) tips disengage or pop out from the handle during operation: 1) Be sure spray tip is fully inserted and there is no gap. Twist to the left and right to ensure tip is fully secure. 2) Reduce the pressure by turning the control knob to the recommended setting generally between 3-6. The atomizer (spray) tips are designed to be used at the lower settings. Although unusual higher setting may cause the tip to dislodge from the handle during use.",
+            "image": "shopify:\/\/shop_images\/image_32.png"
+          }
+        },
+        "bd570628-c7ee-4845-b126-2543f6bebf09": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Will not turn on - No power (LED display does not light up)",
+            "content": "Check your outlet, especially if it is a GFI pictured below. The breaker may have been tripped and needs to be reset. Check the SinuPulse on an alternate outlet on an entirely different circuit. We recommend in the kitchen on a non GFI outlet this can also help force a reset of the internal breaker inside the unit if it was tripped due to a voltage spike or overheating. The device will generally reset within 30 minutes once the motor cools down.",
+            "image": "shopify:\/\/shop_images\/image_33.png"
+          }
+        },
+        "667fc7f0-126d-4efd-8298-9fa6b05831ae": {
+          "type": "blockContent",
+          "settings": {
+            "title": "There is power but I don't hear the motor (LED lights up but no sound from motor or pump assembly)",
+            "content": "This is usually an issue with older units resulting from wear especially calcification and mineral deposits which can cause build up and obstruct movement of the gears. Often the obstruction can be dislodged with a firm couple of taps on the bottom of the unit. If the mineral build up can be dislodged the motor and gear assembly will be free to move and should resume pumping. You may need to adjust the control knob from low to high a few times to help remove air that may have become trapped in the system and resume water flow. It is advisable to run 16 ounces of dilute white vinegar (2:1) through the unit to further break up any remaining mineral deposits and calcification. Vinegar is an excellent natural decalcifier and disinfectant."
+          }
+        },
+        "cacaae98-2cb7-47c5-a69c-12418684962d": {
+          "type": "blockContent",
+          "settings": {
+            "title": "I thought water pressure would be stronger, why not?",
+            "content": "As indicated earlier in the troubleshooting steps, first be sure to lubricate the O-ring located on the bottom of the water tank as directed in the user guide. The O-ring may be dry prior to first use, from a period of regular use, or after a period of inactivity. To lubricate the O-ring simply apply a very small application of Vaseline with your finger around the O-ring which does not need to be removed. A very small, thin application is generally all that is needed to ensure optimal performance with periodic applications 2-3X annually. Clean the SinuPulse regularly as directed, including a dilute vinegar rinse, to minimize mineral deposits and calcification which can contribute to reduced performance (flow rate) and premature wear. Use of distilled water is recommended best for long term durability. <br>\nThe SinuPulse Elite is considerably different than other nasal wash products such as squeeze bottles that simply wash the nasal passages and rely on pressure alone (fire hose up the nose mentality). The higher pressure can contribute to ear sensitivity, irritation, and drive infection deeper. Pulsatile irrigation provides a safe more effective irrigation to enhance the body's natural defenses and address the underlying causes of chronic allergy and sinus problems. The SinuPulse delivers a gentle electronic pulsating saline rinse for maximum cleansing benefit. The oscillating rinse removes bacteria and debris that other nasal wash products can leave behind. At the maximum setting the SinuPulse delivers up to 24 oz in less than a minute and is 3X greater than other methods. Our pulsating rinse action has been reported in published medical journals to help break down biofilm, remove bacteria at a rate far greater than non pulsating methods, and help restore natural ciliary function. All critical for long term sinus relief and protection. Our goal is to treat the cause not simply the symptoms."
+          }
+        },
+        "60f15ac7-f977-4cfd-ae45-c84ee592216d": {
+          "type": "blockContent",
+          "settings": {
+            "title": "General Cleaning",
+            "content": "Use of saline solutions contribute to mineral and salt deposits which can accumulate in your irrigator, causing it to lose pressure and effectiveness over time. Following some simple steps will keep your SinuPulse® irrigator clean and ensure optimal performance.After each use rinse the water tank thoroughly with warm water to remove any residual saline and allow to air dry. Soap and water may also be used periodically for cleaning. It is beneficial to frequently rinse the unit after use by running through a full reservoir of pure warm water til there is no more water in the reservoir and none is being ejected from the tip. Once the water has all gone, continue to allow the unit to run for about 5 seconds, to push out any residual moisture. Be sure to wipe down the unit regularly to remove any saline solution that may have spilled on the exterior to minimize accumulation of salt deposits. Rinsing the unit periodically with dilute vinegar (3:1) every 1 -3 months is recommended to help reduce mineral deposits and calcification.It's easy to keep your SinuPulse® irrigator clean so you continue to get the maximum benefit for your sinus health."
+          }
+        },
+        "5c5a99e1-c7b6-4e42-9b31-13b2cad38238": {
+          "type": "blockContent",
+          "settings": {
+            "title": "How to Decalcify and Disinfect your SinuPulse Elite® in 5 Easy Steps",
+            "content": "Mineral deposits and other materials can collect in your SinuPulse irrigator, causing it to lose pressure and effectiveness. Here are 5 steps for simple cleaning with water and vinegar to keep your SinuPulse irrigator performing at its best. Complete this process every 1-3 months to ensure optimal performance.\n<ul>\n<li>\nClean the outside of the unit\n<\/li>\n<li>\nClean the water reservoir\n<\/li>\n<li>\nClean the internal parts\n<\/li>\n<li>\nClean the handle\n<\/li>\n<li>\nClean the sinus irrigator tip\n<\/li>\n<\/ul>"
+          }
+        },
+        "cf8b78c2-a05f-4aa5-aa4c-b31205c9dd1c": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Step 1: Clean the Outside of the Unit",
+            "content": "Clean the outside of the product when necessary by using a soft cloth and mild non-abrasive cleanser."
+          }
+        },
+        "80ac4d61-4552-4770-97a2-d4011cc65d6d": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Step 2: Clean the Water Reservoir",
+            "content": "<ul>\n<li>\nRemove the water reservoir from the unit.\n<\/li>\n<li>\nGently remove the white valve cone (reservoir valve) being careful not to lose it in the sink drain. Clean the valve by massaging it under warm water for 30-45 seconds and set aside.\n<\/li>\n<li>\nRinse reservoir by hand with warm soapy water\n<\/li>\n<li>\nIf you removed the valve cone, place it back in the reservoir before use. (flat side up, push in place so the four prongs are visible on the bottom of the reservoir.)\n<\/li>\n<\/ul>"
+          }
+        },
+        "304f7fb9-d1af-4cc0-9401-18cb83507a64": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Step 3: Clean the Internal Parts",
+            "content": "<ul>\n<li>\nPrepare a dilute white vinegar solution (3:1) with 1 warm water.\n<\/li>\n<li>\nRun this solution through the unit until the reservoir is empty.\n<\/li>\n<li>\nRinse by repeating with a full reservoir of clean warm water.\n<\/li>\n<\/ul>"
+          }
+        },
+        "111ca95b-517b-47f9-aabc-09c0ab7273a3": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Step 4: Clean the Handle (Countertop Models)",
+            "content": "<ul>\n<li>\nRemove the tip from the unit using the tip release.\n<\/li>\n<li>\nInsert a small amount of the dilute vinegar solution into the handle opening where the Sinus tip is inserted and allow to soak for 5 minutes.\n<\/li>\n<li>\nGently wipe down the handle with the dilute vinegar solution paying attention to the pause button to remove any mineral deposits and calcification.\n<\/li>\n<li>\nClean the SinuPulse tip separately using\n<\/li>\n<\/ul>"
+          }
+        },
+        "54796a54-c48e-4d85-922d-56ab30345f79": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Step 5: Clean the SinuPulse Sinus Tips",
+            "content": "<ul>\n<li>\nRemove the tip from the unit using the tip release.\n<\/li>\n<li>\nSoak the SinuPulse tip in a container of dilute white vinegar solution for 5 minutes.\n<\/li>\n<li>\nRinse the sinus tip under warm water.\n<\/li>\n<li>\nFor maximum effectiveness we recommend replacing SinuPulse spray atomizer tip as needed. The spray atomizer tip can become clogged and\/or affected by mineral deposits.\n<\/li>\n\n<\/ul>"
+          }
+        },
+        "21a9eae6-f70c-45ab-a477-70a69b29a5e6": {
+          "type": "blockContent",
+          "settings": {
+            "title": "",
+            "content": "Do not use the water tank to soak the tips as it is not intended to store solutions. Following these steps will help ensure proper operation and optimal performance.It's easy to keep your SinuPulse Elite® clean so you continue to get the maximum benefit for your sinus health. If you have other product questions, check out our Product Support (FAQ) and Product Manuals.\n<br><br>\n<b>REMINDER:<\/b> THE WATER TANK IS NOT INTENDED TO STORE LIQUIDS. EMPTY WATER TANK AFTER EACH USE."
+          }
+        }
+      },
+      "block_order": [
+        "5060ab1c-9d9c-400f-a6c4-11a52b313004",
+        "12b3f816-ddfd-4982-a229-8edf9f2e6e5f",
+        "698dd4df-4b35-44af-9781-8aaa52b0ba7c",
+        "547c85d0-de9f-4626-bf99-db677d3569d8",
+        "bece75a8-0b05-4a4e-b392-dfc02e3ed6ca",
+        "bd570628-c7ee-4845-b126-2543f6bebf09",
+        "667fc7f0-126d-4efd-8298-9fa6b05831ae",
+        "cacaae98-2cb7-47c5-a69c-12418684962d",
+        "60f15ac7-f977-4cfd-ae45-c84ee592216d",
+        "5c5a99e1-c7b6-4e42-9b31-13b2cad38238",
+        "cf8b78c2-a05f-4aa5-aa4c-b31205c9dd1c",
+        "80ac4d61-4552-4770-97a2-d4011cc65d6d",
+        "304f7fb9-d1af-4cc0-9401-18cb83507a64",
+        "111ca95b-517b-47f9-aabc-09c0ab7273a3",
+        "54796a54-c48e-4d85-922d-56ab30345f79",
+        "21a9eae6-f70c-45ab-a477-70a69b29a5e6"
+      ],
+      "settings": {
+        "add_class": "sinuplus-maintenance-wrp",
+        "title": "",
+        "content": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "98b4284f-c3b3-4801-9e18-c44af3530e57",
+    "5af9961e-cb8b-4ec9-aac2-669e9bda146e",
+    "594a40de-3a78-4c8f-b7d5-7d5c6d15b7b9"
+  ]
+}

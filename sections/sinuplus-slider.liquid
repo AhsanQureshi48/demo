@@ -1,0 +1,92 @@
+<div class="sinuplus_slider">
+  <div class="page-width">
+    <div class="sinuplus_slide_wrp">
+      <div class="page-width">
+        <div class="heading_flex">
+          {% if section.settings.title != blank %}
+            <div class="heading_left">
+              <h2>
+                {{ section.settings.title }}
+              </h2>
+            </div>
+          {% endif %}
+          {% if section.settings.content != blank %}
+            <div class="heading_right">
+              <p class="eigtheen">
+                {{ section.settings.content }}
+              </p>
+            </div>
+          {% endif %}
+        </div>
+      </div>
+      <div class="sinu-page-width">
+        <div class="sinuplus_mn_slider">
+          {% for block in section.blocks %}
+            <div class="sinuplus_mn_block">
+              <div class="sinuplus_block_slider">
+                <div class="sinuplus_image_item">
+                  {% if block.settings.block_image != blank %}
+                    <img src="{{block.settings.block_image | img_url: 'master' }}" alt="">
+                  {% endif %}
+                </div>
+                {% if block.settings.title != blank %}
+                  <div class="sinu_block_heading">
+                    <h6>
+                      {{ block.settings.title }}
+                    </h6>
+                  </div>
+                {% endif %}
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% schema %}
+{
+  "name": "Sinuplus Slider",
+  "class": "sinuplus_main_slider",
+  "settings": [
+            {
+              "type": "textarea",
+              "id": "title",
+              "label": "Title"
+            },
+            {
+              "type": "textarea",
+              "id": "content",
+              "label": "Content"
+            }
+  ],
+  "blocks": [
+        {
+          "name": "Block Content",
+          "type": "blockContent",
+          "settings": [
+            {
+              "type": "image_picker",
+              "id": "block_image",
+              "label": "Block Image"
+            },
+            {
+              "type": "text",
+              "id": "title",
+              "label": "Title"
+            }
+          ]
+        }
+      ],
+  "presets": [
+    {
+      "name": "Sinuplus Slider",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}
+{% stylesheet %}
+{% endstylesheet %}
+{% javascript %}
+{% endjavascript %}

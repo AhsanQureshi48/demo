@@ -1,0 +1,72 @@
+<div class="home_main_banner">
+    <div class="page-width">
+        <div class="flex hm_inn_bnr">
+            <div class="flex-left-col">
+                {% if section.settings.title != blank %}
+                <h1>
+                    {{section.settings.title}}
+                </h1>
+            {% endif %}
+                {% if section.settings.content != blank %}
+                <p>
+                    {{section.settings.content}}
+                </p>
+            {% endif %}
+                {% if section.settings.button_link != blank %}
+                <a href="{{section.settings.button_link}}">
+                    {{section.settings.button_label}}
+                </a>
+            {% endif %}
+            </div>
+            <div class="flex-right-col">
+                {% if section.settings.column_image != blank %}
+                <img src="{{section.settings.column_image | img_url: 'master' }}" alt="">
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+
+{% schema %}
+{
+  "name": "Home Banner",
+  "class": "home_banner",
+  "settings": [
+            {
+              "type": "text",
+              "id": "title",
+              "label": "Title"
+            },
+            {
+              "type": "textarea",
+              "id": "content",
+              "label": "Content"
+            },
+            {
+              "type": "image_picker",
+              "id": "column_image",
+              "label": "Column Image"
+            },
+            {
+              "type": "text",
+              "id": "button_label",
+              "label": "Button Label"
+            },
+            {
+              "type": "url",
+              "id": "button_link",
+              "label": "Button Link"
+            }
+  ],
+  "presets": [
+    {
+      "name": "Home Banner",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}
+{% stylesheet %}
+{% endstylesheet %}
+{% javascript %}
+{% endjavascript %}

@@ -1,0 +1,68 @@
+<div class="commitment-bnr-wrp" style="background:{{ section.settings.background }};">
+  <div class="page-width">
+    <div class="inner_wrp">
+      <div class="commitment-flex">
+        <div class="commit-left">
+          <div class="inn_head">
+            {% if section.settings.title != blank %}
+              <h2>
+                {{ section.settings.title }}
+              </h2>
+            {% endif %}
+            {% if section.settings.content != blank %}
+              <p>
+                {{ section.settings.content }}
+              </p>
+            {% endif %}
+          </div>
+        </div>
+        <div class="commit-right">
+          {% if section.settings.column_image != blank %}
+            <div class="commit-img">
+              <img src="{{section.settings.column_image | img_url: 'master' }}" alt="">
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% schema %}
+{
+  "name": "Commitment Banner",
+  "class": "commitment_banner",
+  "settings": [
+        {
+        "type": "color",
+        "id": "background",
+        "label": "Background Color",
+        "default": "#F3F6FA"
+      },
+                {
+              "type": "image_picker",
+              "id": "column_image",
+              "label": "Background Image"
+            },
+            {
+              "type": "text",
+              "id": "title",
+              "label": "Title"
+            },
+            {
+              "type": "textarea",
+              "id": "content",
+              "label": "Content"
+            }
+  ],
+  "presets": [
+    {
+      "name": "Commitment Banner",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}
+{% stylesheet %}
+{% endstylesheet %}
+{% javascript %}
+{% endjavascript %}

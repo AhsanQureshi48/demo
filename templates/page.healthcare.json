@@ -1,0 +1,69 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": false,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "300433bd-c5f8-4895-96b1-5b61ffb9d9be": {
+      "type": "inner-banner",
+      "settings": {
+        "column_image": "shopify:\/\/shop_images\/Rectangle_1.png",
+        "title": "Healthcare Partnerships"
+      }
+    },
+    "1d0d4088-7a3b-466c-941f-ee5771022b4d": {
+      "type": "two-column",
+      "blocks": {
+        "3eedc34a-a9c5-4f02-9e6b-32c60ed73249": {
+          "type": "blockContent",
+          "settings": {
+            "flipped_area": "none",
+            "flex_basis": "half_column",
+            "title": "Healthcare Partnerships",
+            "content": "",
+            "column_image": "shopify:\/\/shop_images\/Rectangle_71.png",
+            "sub_title": "Expanding healthcare partnerships and delivery systems:",
+            "sub_content": "We are always looking for new healthcare partners to grow our delivery systems including hospitals, respiratory clinics, physician offices, and pharmacies. We welcome new retail opportunities to drive patient point of use and welcome all resale inquiries.",
+            "sub_sec_title": "Wholesale\/Distributor trade support includes:",
+            "sub_sec_content": "<ul>\n<li>\nWholesale case rates.\n<\/li>\n<li>\nFull refund & return policy.\n<\/li>\n<li>\nSame day shipping available upon request. \n<\/li>\n<li>\nHigh-impact retail packaging complete with instructions.\n<\/li>\n<\/ul>",
+            "sub_third_title": "Marketing support, including:",
+            "sub_third_content": "<ul>\n<li>\nLibrary of health resources, editorials, and published medical reports. \n<\/li>\n<li>\nPoint of purchase brochures available.\n<\/li>\n<li>\nCatalog kits with text and photograph samples.\n<\/li>\n<\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "3eedc34a-a9c5-4f02-9e6b-32c60ed73249"
+      ],
+      "settings": {
+        "add_class": "health_care"
+      }
+    },
+    "eff0422f-25f3-4b41-8d5e-31ad38362437": {
+      "type": "grey-box",
+      "blocks": {
+        "5c9da995-36ed-4ec0-b374-2109212d989e": {
+          "type": "blockContent",
+          "settings": {
+            "title": "If you would like more information on our full product line and services including product knowledge seminars, continuing medical education (CME), product training, wholesale pricing, and product availability please contact:",
+            "textarea": "<b>Health Solutions Medical <\/b> <br>\nProducts Corp.<br>\nBusiness Development <br>\nCulver City, CA 90231 <br>\nTel. 800.305.4095 (within USA) <br>\nTel. 310.837.3191 (international) <br>\nE-mail: sales@sinupulse.com"
+          }
+        }
+      },
+      "block_order": [
+        "5c9da995-36ed-4ec0-b374-2109212d989e"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "300433bd-c5f8-4895-96b1-5b61ffb9d9be",
+    "1d0d4088-7a3b-466c-941f-ee5771022b4d",
+    "eff0422f-25f3-4b41-8d5e-31ad38362437"
+  ]
+}

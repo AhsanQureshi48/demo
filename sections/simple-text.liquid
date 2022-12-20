@@ -1,0 +1,34 @@
+<div class="simple_text_wrp">
+  <div class="page-width">
+    <div class="simple_wrp">
+      {% if section.settings.content != blank %}
+        <p>
+          {{ section.settings.content }}
+        </p>
+      {% endif %}
+    </div>
+  </div>
+</div>
+{% schema %}
+{
+  "name": "Simple Text",
+  "class": "simple_text",
+  "settings": [
+            {
+              "type": "textarea",
+              "id": "content",
+              "label": "Content"
+            }
+  ],
+  "presets": [
+    {
+      "name": "Simple Text",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}
+{% stylesheet %}
+{% endstylesheet %}
+{% javascript %}
+{% endjavascript %}

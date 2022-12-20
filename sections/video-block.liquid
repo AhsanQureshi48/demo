@@ -1,0 +1,85 @@
+<div class="custom_video_wrp {{ section.settings.add_class }}">
+  <div class="page-width">
+    <div class="video_inn_wrp">
+      <div class="video_heading heading">
+        {% if section.settings.title != blank %}
+          <h2>
+            {{ section.settings.title }}
+          </h2>
+        {% endif %}
+        {% if section.settings.sub_title != blank %}
+          <h5>
+            {{ section.settings.sub_title }}
+          </h5>
+        {% endif %}
+        {% if section.settings.content != blank %}
+          <p>
+            {{ section.settings.content }}
+          </p>
+        {% endif %}
+      </div>
+      <div class="clean_block">
+        {% for block in section.blocks %}
+          <div class="clean_mn_block">
+            {% if block.settings.video != blank %}
+              <div class="video_box">
+                {{ block.settings.video }}
+              </div>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+{% schema %}
+{
+  "name": "Video Block",
+  "class": "video_block",
+  "settings": [
+    {
+              "type": "text",
+              "id": "add_class",
+              "label": "Custom Class"
+            },
+            {
+              "type": "text",
+              "id": "title",
+              "label": "Title"
+            },
+    {
+              "type": "text",
+              "id": "sub_title",
+              "label": "Sub Title"
+            },
+            {
+              "type": "textarea",
+              "id": "content",
+              "label": "Content"
+            }
+  ],
+  "blocks": [
+        {
+          "name": "Block Content",
+          "type": "blockContent",
+          "settings": [
+            {
+              "type": "textarea",
+              "id": "video",
+              "label": "Video HTML"
+            }
+          ]
+        }
+      ],
+  "presets": [
+    {
+      "name": "Video Block",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}
+{% stylesheet %}
+{% endstylesheet %}
+{% javascript %}
+{% endjavascript %}

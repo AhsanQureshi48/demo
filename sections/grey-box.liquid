@@ -1,0 +1,59 @@
+<div class="grey_box">
+  <div class="page-width">
+    <div class="grey_inn-box">
+      <div class="grey_mn_block">
+        {% for block in section.blocks %}
+          <div class="grey_block_box">
+            <div class="grey_inn_block">
+              {% if block.settings.title != blank %}
+                <p class="eighteen">
+                  {{ block.settings.title }}
+                </p>
+              {% endif %}
+              {% if block.settings.textarea != blank %}
+                <p>
+                  {{ block.settings.textarea }}
+                </p>
+              {% endif %}
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+{% schema %}
+{
+  "name": "Grey Box",
+  "class": "grey_box",
+  "settings": [],
+  "blocks": [
+        {
+          "name": "Block Content",
+          "type": "blockContent",
+          "settings": [
+            {
+              "type": "text",
+              "id": "title",
+              "label": "Title"
+            },
+            {
+              "type": "textarea",
+              "id": "textarea",
+              "label": "Html Content"
+            }
+          ]
+        }
+      ],
+  "presets": [
+    {
+      "name": "Grey Box",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}
+{% stylesheet %}
+{% endstylesheet %}
+{% javascript %}
+{% endjavascript %}

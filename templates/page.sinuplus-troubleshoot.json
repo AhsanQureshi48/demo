@@ -1,0 +1,64 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": false,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "4cc4699f-71ba-42f6-9792-3a67147bb788": {
+      "type": "inner-banner",
+      "settings": {
+        "column_image": "shopify:\/\/shop_images\/Rectangle_1.png",
+        "title": "SinuPulse Products Maintenance & Troubleshooting"
+      }
+    },
+    "e995b7c8-83b9-48b9-b314-6b23411d9bc1": {
+      "type": "clean-product",
+      "blocks": {
+        "1fd6a88f-ffcd-443c-af68-abaa279b887c": {
+          "type": "blockContent",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/image_24.png",
+            "title": "SinuPulse Elite Troubleshooting",
+            "product_title": "",
+            "content": "",
+            "button_label": "View Troubleshooting Info",
+            "button_link": "#",
+            "button_sec_label": "",
+            "button_sec_link": ""
+          }
+        },
+        "16543724-26a3-4468-866a-7daba5782384": {
+          "type": "blockContent",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/image_25.png",
+            "title": "SinuPulse Traveler Troubleshooting",
+            "product_title": "",
+            "content": "",
+            "button_label": "View Troubleshooting Info",
+            "button_link": "#",
+            "button_sec_label": "",
+            "button_sec_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1fd6a88f-ffcd-443c-af68-abaa279b887c",
+        "16543724-26a3-4468-866a-7daba5782384"
+      ],
+      "settings": {
+        "add_class": "sinuplus_troubleshoot",
+        "title": "SinuPulse Products Maintenance & Troubleshooting",
+        "content": "Thank you for your purchase of our SinuPulse Nasal Sinus Irrigation System. Choose your product below to view relevant FAQ, troubleshooting steps and maintenance tips that will resolve most issues quickly and help ensure optimal performance."
+      }
+    }
+  },
+  "order": [
+    "main",
+    "4cc4699f-71ba-42f6-9792-3a67147bb788",
+    "e995b7c8-83b9-48b9-b314-6b23411d9bc1"
+  ]
+}

@@ -1,0 +1,70 @@
+<div class="faq_content">
+  <div class="page-width">
+    <div class="faq_heading">
+      {% if section.settings.title != blank %}
+        <h2>
+          {{ section.settings.title }}
+        </h2>
+      {% endif %}
+    </div>
+    <div class="faq_inn_content">
+      <div class="faq_mn_block">
+        {% for block in section.blocks %}
+          <div class="faq-acc-block">
+            {% if block.settings.title != blank %}
+              <button class="accordion">{{ block.settings.title }}</button>
+            {% endif %}
+            {% if block.settings.textarea != blank %}
+              <div class="panel panel-2">
+                <p>
+                  {{ block.settings.textarea }}
+                </p>
+              </div>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+{% schema %}
+{
+  "name": "FAQ Section",
+  "class": "faq_section",
+  "settings": [
+    {
+              "type": "text",
+              "id": "title",
+              "label": "Title"
+            }
+  ],
+  "blocks": [
+        {
+          "name": "Block Content",
+          "type": "blockContent",
+          "settings": [
+            {
+              "type": "text",
+              "id": "title",
+              "label": "Title"
+            },
+            {
+              "type": "textarea",
+              "id": "textarea",
+              "label": "FAQ Content"
+            }
+          ]
+        }
+      ],
+  "presets": [
+    {
+      "name": "FAQ Section",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}
+{% stylesheet %}
+{% endstylesheet %}
+{% javascript %}
+{% endjavascript %}

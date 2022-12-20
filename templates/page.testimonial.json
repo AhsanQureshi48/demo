@@ -1,0 +1,96 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": false,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "b4115331-4ea6-4487-9269-4a930e31c55f": {
+      "type": "inner-banner",
+      "settings": {
+        "column_image": "shopify:\/\/shop_images\/Rectangle_1.png",
+        "title": "Testimonials"
+      }
+    },
+    "85575227-5eaa-4f47-9943-1307aa2fe3f0": {
+      "type": "testimonial-without-slider",
+      "blocks": {
+        "1c53466a-dab2-4080-8848-476b62b1aa9a": {
+          "type": "blockContent",
+          "settings": {
+            "client_image": "shopify:\/\/shop_images\/Ellipse_4.png",
+            "client_feedback": "“ I recommend the SinuPulse Elite from Health Solutions Medical Products. Our team has been using their sinus irrigation products as part of our regular healthcare regimen. We have found the products help our players that suffer from allergies and sinus problems.”",
+            "client_name": "Gary Vitti",
+            "designation": "Legendary Head Athletic Trainer, Los Angeles Lakers<br>\n7X NBA World Champion"
+          }
+        },
+        "4dd5bac9-53e3-4e6b-aeeb-723552611d82": {
+          "type": "blockContent",
+          "settings": {
+            "client_image": "shopify:\/\/shop_images\/Ellipse_4_1.png",
+            "client_feedback": "“ I recommend the SinuPulse Elite from Health Solutions Medical Products. Our team has been using their sinus irrigation products as part of our regular healthcare regimen. We have found the products help our players that suffer from allergies and sinus problems.”",
+            "client_name": "Graham Fraser",
+            "designation": "Past President, Ironman North America Triathlon"
+          }
+        },
+        "c71f9abf-e92a-430b-ab2c-ce5e2b1c42fd": {
+          "type": "blockContent",
+          "settings": {
+            "client_image": "shopify:\/\/shop_images\/Ellipse_4.png",
+            "client_feedback": "“ I recommend the SinuPulse Elite from Health Solutions Medical Products. Our team has been using their sinus irrigation products as part of our regular healthcare regimen. We have found the products help our players that suffer from allergies and sinus problems.”",
+            "client_name": "Gary Vitti",
+            "designation": "Legendary Head Athletic Trainer, Los Angeles Lakers<br>\n7X NBA World Champion"
+          }
+        },
+        "11d5ff0d-fd70-4f6b-b571-24e57e504907": {
+          "type": "blockContent",
+          "settings": {
+            "client_image": "shopify:\/\/shop_images\/Ellipse_4_1.png",
+            "client_feedback": "“ I recommend the SinuPulse Elite from Health Solutions Medical Products. Our team has been using their sinus irrigation products as part of our regular healthcare regimen. We have found the products help our players that suffer from allergies and sinus problems.”",
+            "client_name": "Graham Fraser",
+            "designation": "Past President, Ironman North America Triathlon"
+          }
+        },
+        "aae3b13a-bdfd-4e68-8737-6433b4cd5da1": {
+          "type": "blockContent",
+          "settings": {
+            "client_image": "shopify:\/\/shop_images\/Ellipse_4.png",
+            "client_feedback": "“ I recommend the SinuPulse Elite from Health Solutions Medical Products. Our team has been using their sinus irrigation products as part of our regular healthcare regimen. We have found the products help our players that suffer from allergies and sinus problems.”",
+            "client_name": "Gary Vitti",
+            "designation": "Legendary Head Athletic Trainer, Los Angeles Lakers <br>\n7X NBA World Champion"
+          }
+        },
+        "698860e3-eaad-47c7-a65e-4a10b1eec62b": {
+          "type": "blockContent",
+          "settings": {
+            "client_image": "shopify:\/\/shop_images\/Ellipse_4_1.png",
+            "client_feedback": "“ I recommend the SinuPulse Elite from Health Solutions Medical Products. Our team has been using their sinus irrigation products as part of our regular healthcare regimen. We have found the products help our players that suffer from allergies and sinus problems.”",
+            "client_name": "Graham Fraser",
+            "designation": "Legendary Head Athletic Trainer, Los Angeles Lakers <br>\n7X NBA World Champion"
+          }
+        }
+      },
+      "block_order": [
+        "1c53466a-dab2-4080-8848-476b62b1aa9a",
+        "4dd5bac9-53e3-4e6b-aeeb-723552611d82",
+        "c71f9abf-e92a-430b-ab2c-ce5e2b1c42fd",
+        "11d5ff0d-fd70-4f6b-b571-24e57e504907",
+        "aae3b13a-bdfd-4e68-8737-6433b4cd5da1",
+        "698860e3-eaad-47c7-a65e-4a10b1eec62b"
+      ],
+      "settings": {
+        "add_class": "testimonial_without_slider",
+        "title": "SinuPulse & Pulsatile Nasal Irrigation Reviews",
+        "content": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b4115331-4ea6-4487-9269-4a930e31c55f",
+    "85575227-5eaa-4f47-9943-1307aa2fe3f0"
+  ]
+}

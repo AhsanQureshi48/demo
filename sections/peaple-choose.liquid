@@ -1,0 +1,83 @@
+<div class="peaple_choose">
+    <div class="page-width">
+        <div class="peaple_inn_wrp">
+            <div class="peaple_heading heading">
+                {% if section.settings.title != blank %}
+                    <h2>
+                        {{section.settings.title}}
+                    </h2>
+                {% endif %}
+                {% if section.settings.content != blank %}
+                    <p>
+                        {{section.settings.content}}
+                    </p>
+                {% endif %}
+            </div>
+            <div class="peaple_block">
+                {% for block in section.blocks %}
+                    <div class="peaple_inn_block">
+                        <div class="peaple_img">
+                            {% if block.settings.block_image != blank %}
+                                <img src="{{block.settings.block_image | img_url: 'master' }}" alt="">
+                            {% endif %}
+                        </div>
+                        {% if block.settings.content != blank %}
+                        <div class="peaple_text">
+                          <p>
+                            {{block.settings.content}}
+                            
+                          </p>
+                        </div>
+                    {% endif %}
+                    </div>
+            {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+{% schema %}
+{
+  "name": "Peaple Choose",
+  "class": "peaple_choose",
+  "settings": [
+            {
+              "type": "text",
+              "id": "title",
+              "label": "Title"
+            },
+            {
+              "type": "textarea",
+              "id": "content",
+              "label": "Content"
+            }
+  ],
+  "blocks": [
+        {
+          "name": "Block Content",
+          "type": "blockContent",
+          "settings": [
+            {
+              "type": "image_picker",
+              "id": "block_image",
+              "label": "Block Image"
+            },
+            {
+              "type": "textarea",
+              "id": "content",
+              "label": "Content"
+            }
+          ]
+        }
+      ],
+  "presets": [
+    {
+      "name": "Peaple Choose",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}
+{% stylesheet %}
+{% endstylesheet %}
+{% javascript %}
+{% endjavascript %}

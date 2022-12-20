@@ -1,0 +1,47 @@
+{% if section.settings.column_image != blank %}
+  <div
+    class="inner_main_banner"
+    style="background: url({{section.settings.column_image | img_url: 'master' }}) no-repeat; background-size:cover;"
+  >
+    <div class="page-width">
+      <div class="inner_wrp">
+        <div class="inn_head">
+          {% render 'breadcrumbs' %}
+          {% if section.settings.title != blank %}
+            <h1>
+              {{ section.settings.title }}
+            </h1>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+{% endif %}
+{% schema %}
+{
+  "name": "Inner Banner",
+  "class": "inner_banner",
+  "settings": [
+                {
+              "type": "image_picker",
+              "id": "column_image",
+              "label": "Background Image"
+            },
+            {
+              "type": "text",
+              "id": "title",
+              "label": "Title"
+            }
+  ],
+  "presets": [
+    {
+      "name": "Inner Banner",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}
+{% stylesheet %}
+{% endstylesheet %}
+{% javascript %}
+{% endjavascript %}

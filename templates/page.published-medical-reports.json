@@ -1,0 +1,51 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": false,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "4217ba41-9270-40be-ac6d-0a9b349391e1": {
+      "type": "inner-banner",
+      "settings": {
+        "column_image": "shopify:\/\/shop_images\/Rectangle_1.png",
+        "title": "Published Medical Reports"
+      }
+    },
+    "c31510c4-7f0f-4545-a4ae-a7e563d18d6c": {
+      "type": "custom-text",
+      "blocks": {
+        "c9fa83ed-c6f9-4fce-bfbe-8a0e00ba0a6a": {
+          "type": "blockContent",
+          "settings": {
+            "title": "General Articles on Pulsatile Nasal Irrigation & Sinusitis",
+            "content": "Having Nasal Surgery? Don’t You Become An Empty Nose Victim, Christopher Martin. 2008.\n<br><br>\nSinus Relief Now: The Ground-Breaking 5-Step Program for Sinus, Allergy, and Asthma Sufferers by Jordan S. Josephson, 2007\n<br><br>\nThe Sinus Cure by Debra Bruce and Murray Grossan. 2007.\n<br><br>\nHarvard Medical School Guide to Healing Your Sinuses (Harvard Medical School Guides) by Ralph Metson and Steven Mardon, 2006\n<br><br>\nPatients at the Nasal Dysfunction Clinic an Univ. of Cal. San Diego had excellent relief by daily irrigation with pulsatile irrigation for sinusitis, perennial allergy, seasonal allergy, postnasal drip, and associated fatigue. Very well accepted by patients.Clinical Study and Literature Review of Nasal Irrigation, Davidson, T., Laryngoscope 110: July 00\n<br><br>\n\"[Pulsatile] Nasal Irrigation with salt water is extremely helpful for flushing infected sinuses or cleansing the membranes of the nose and sinuses.\" The Complete Self-Care Guide to Holistic Medicine, Robert Ivker 1999\n<br><br>\nManagement of Sinusitis: Current Clinical Strategies,\"If the patient has recurrent disease a pulsatile irrigator is.particularly effective after surgery.\" page 121, \"Treatment of Chronic Sinusitis - Nasal washing ...applied through the Pulsatile irrigator and [nasal] adapter twice a day is recommended. Michael Kaliner MD and David W Kenned, MD, in Sinusits Disease Management Guide. PDR 2000\n<br><br>\nTherapeutic Agents In The Medical Management Of Sinusitis, Not only is the [pulsatile] Sinus Irrigator beneficial for patients with bothersome thick postnasal secretions, but is especially helpful for postoperative cleansing following nasal surgery. Mabry, R.L. In: Inflammatory diseases of the sinuses. Otolaryngologic Clinics Of North America, Volume 26, Number 4, pp 561, 1993.\n<br><br>\nSinusitis: Acute, Chronic and Mangegeable,\"A particularly helpful strategy is saline washing using a Pulsatile irrigator. Sinus irrigator is so effective in clearing the blocked passages that , if it is done regularly, some patients with persisitent or chronic sinusitis need no drug treatment at all. Rachelevsky G S, Slavin R G et all. Patient Care. Feb 28, 1997 Vol 131:4.\n<br><br>\nA Device for Nasal Irrigation, An easy method of sinus treatment at home or office. With this device the patient can leave the office with the bacterial load reduced, hence requires less antibiotic and much greater patient satisfaction. Grossan M Transactions of the American Academy of Ophthalmology and Otolaryngology. 78: July 1974 279-280\n<br><br>\nSinusitis: Bench to Bedside, Pulsatile sinus irrigation is recommended as a treatment for sinusitis, and as a supplement to other treatment modalities. Kaliner MA et al. Otolaryngology June 97 116:6 Part 2 Study of Sinusits.\n\nA New Nasal Irrigator Device. Application of pulsatile irrigation for post nasal drip and phlegm. Grossan M. The Eye, Ear Nose And Throat Monthly. March 1974.\n<br><br>\nA Device To Aid Nasal Mucociliary Flow, In Japan there is a very high incidence of sinusitis requiring surgery. Pulsatile irrigation is helpful to avoid surgery. Grossan A.N.L. March 1976 pp 65-70.\n<br><br>\nOffice Measurement of Nasal Mucociliary Clearance, The saccharin test is an objective measure of one very important aspect of the respiratory defense system. Many diagnostic dilemmas are solved using this test. The nasal test reflects the chest condition. Using pulsatile irrigation, one can improve both. Grossan, M. English: Otolaryngology 1994 Vol 2 ch 7\n<br><br>\nTreatment of Sinusitis in the Next Millennium, Saline irrigation using a pulsating stream and sinus adaptor is an effective non-drug treatment for sinusitis. Kaliner, M. Allergy and Asthma Proceedings, 19:181-4, 1998\n<br><br>\nNasal Hyperthermia and Simple Saline Irrigation for Perennial Rhinitis, Changes in Inflammatory Mediators, Saline irrigation with pulsatile irrigator significantly the presence of mediatiores of inflammation in the nasal exudate six hours after treatment. Georgitis JW. Chest 106:1487 - 82, 1994\n<br><br>\nPulsating irrigation is shown to remove pus and allow for natural, holistic healing. Sinus Survival, Ivker R., Putman Publication 1995.\n<br><br>\nA Device for Nasal Irrigation, Nasal irrigation is found to be an easy method of sinus treatment at home or office. With this device the patient can leave the office with the bacterial load reduced, hence requiring less antibiotic and producing greater patient satisfaction. Grossan, M. Transactions of the American Academy of Ophthalmology and Otolaryngology. 78: July 1974 279-280.\n<br><br>\nPulsation Irrigation: a Simple, Safe Effective Treatment of Many Nasal Complaints, Pulsatile nasal irrigation is recommended as a simple safe treatment for many sinus, ear and allergy complaints. High patient acceptance and enthusiasm is reported. Pope, A., O.R.L. Digest August 1974 15:8 pp 3638.\n<br><br>\nA New Nasal Irrigator Device, Application of pulsatile irrigation for post nasal drip and phlegm is described. Grossan, M., The Eye, Ear Nose and Throat Monthly, March 1974."
+          }
+        },
+        "3aa10556-7e73-4526-8ac4-43cf4e32d436": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Pulsatile Nasal Irrigation in Children",
+            "content": "Pediatric sinusitis, Pulsatile irrigation works for children, even without antibiotics.Manning, Scott, C., Inflammatory Diseases of the Sinuses. Otolaryngologic Clinics of North America. Volume 26, Number 4, pp 623-638 (1993).\n<br><br>\nIrrigation of the Child's Nose, Children with sinusitis, post nasal drip or nasal blockage use pulsatile nasal irrigation at age 5 or older. By removing discharge, adenoid and tonsil hypertrophy were reduced. Irrigation was also found to be an aid to clearing the ear. Grossan, M., Clinical Pediatrics, March 1974 13:3 229-231."
+          }
+        }
+      },
+      "block_order": [
+        "c9fa83ed-c6f9-4fce-bfbe-8a0e00ba0a6a",
+        "3aa10556-7e73-4526-8ac4-43cf4e32d436"
+      ],
+      "settings": {
+        "title": "Published Medical Reports",
+        "content": "Our work on pulsatile irrigation and specifically nasal irrigation dates back nearly 40 years with published medical reports dating back even further. As the original pioneer of pulsatile nasal sinus irrigation we introduced the first FDA registered pulsatile nasal irrigator and is now a worldwide sensation used by millions of allergy and sinus sufferers worldwide."
+      }
+    }
+  },
+  "order": [
+    "main",
+    "4217ba41-9270-40be-ac6d-0a9b349391e1",
+    "c31510c4-7f0f-4545-a4ae-a7e563d18d6c"
+  ]
+}

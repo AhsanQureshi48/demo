@@ -1,0 +1,205 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": false,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "d4c12627-27d1-439e-9e4e-fc15d6ec9339": {
+      "type": "inner-banner",
+      "settings": {
+        "column_image": "shopify:\/\/shop_images\/Rectangle_1.png",
+        "title": "About Sinupulse"
+      }
+    },
+    "e4b53f67-4529-4b8a-8cd0-83b3cc4f8029": {
+      "type": "two-column-with-image",
+      "blocks": {
+        "d59e3e7e-f0f1-4371-8370-e7b971429cc8": {
+          "type": "blockContent",
+          "settings": {
+            "title": "40 Years of Combined Industry Experience",
+            "content": "Health Solutions Medical Products Corporation is dedicated to meeting the needs of our customers and healthcare professionals by exceeding their expectations with efficient and reliable products. Our product manufacturing and development teams include industry leaders who have helped bring some of the best known consumer brands to the global market including Bausch & Lomb, Philips, Water Pik and InterPlak.",
+            "big_image": "shopify:\/\/shop_images\/col-3-1st_2_7accdb3c-ce3f-4da2-b811-7c8e1ae3ebb8.png",
+            "small_image": "shopify:\/\/shop_images\/col-3-1st_2_1.png",
+            "button_label": "",
+            "button_link": "",
+            "white_button_label": "",
+            "white_button_link": "",
+            "right_button_label": "",
+            "right_button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "d59e3e7e-f0f1-4371-8370-e7b971429cc8"
+      ],
+      "settings": {
+      }
+    },
+    "27b5c317-813c-49e7-8bab-5d6430d1122b": {
+      "type": "commitment",
+      "settings": {
+        "background": "#f3f6fa",
+        "column_image": "shopify:\/\/shop_images\/Group_42.png",
+        "title": "A Commitment to <br> Product Innovation",
+        "content": "As the original pioneer of pulsatile nasal sinus irrigation we introduced the first FDA registered pulsatile nasal irrigation system nearly 30 years ago now used worldwide by healthcare professionals, hospitals, and consumers. We remain dedicated to product innovation, superior performance, and unmatched customer satisfaction. Our commitment to product excellence and continuous improvement ensures we not only meet but exceed the expectations of our healthcare partners and customers."
+      }
+    },
+    "f2276c50-ac0c-4a14-8bf9-b0dde43f8f03": {
+      "type": "two-column",
+      "blocks": {
+        "3596db33-6335-4e5b-98f1-888e2624e763": {
+          "type": "blockContent",
+          "settings": {
+            "section_flipped_x": "none",
+            "flex_basis": "none",
+            "title": "Trusted by Healthcare & Sports Professionals",
+            "content": "Our products are trusted by leading healthcare professionals, VA Medical Centers, hospitals, and some of the sports industry's most accomplished professionals from franchises including the Los Angeles Lakers, Los Angeles Dodgers, New York Yankees, New York Rangers and Ironman North America Triathlon.",
+            "column_image": "shopify:\/\/shop_images\/col-3-1st_1_c51612e2-4b1d-47f7-93e2-caaa1fd03d37.png"
+          }
+        }
+      },
+      "block_order": [
+        "3596db33-6335-4e5b-98f1-888e2624e763"
+      ],
+      "settings": {
+        "add_class": ""
+      }
+    },
+    "9d0967ff-4a14-4e07-b7ed-019994798fad": {
+      "type": "featured-in",
+      "blocks": {
+        "fa26c3b9-e9bd-4aa0-8b0d-bc2c72135137": {
+          "type": "blockContent",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/Mask_group.png"
+          }
+        },
+        "d29d996c-1638-4da1-8e81-bed226602475": {
+          "type": "blockContent",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/Mask_group_1.png"
+          }
+        },
+        "4c48aa06-092c-4027-a53f-15e82735f195": {
+          "type": "blockContent",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/Mask_group_2.png"
+          }
+        },
+        "7a2f57b4-237c-416d-aacc-6e3d3c1ca150": {
+          "type": "blockContent",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/Mask_group_3.png"
+          }
+        },
+        "600141ac-5501-4d15-af83-59ca97b2caf5": {
+          "type": "blockContent",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/Mask_group_4.png"
+          }
+        }
+      },
+      "block_order": [
+        "fa26c3b9-e9bd-4aa0-8b0d-bc2c72135137",
+        "d29d996c-1638-4da1-8e81-bed226602475",
+        "4c48aa06-092c-4027-a53f-15e82735f195",
+        "7a2f57b4-237c-416d-aacc-6e3d3c1ca150",
+        "600141ac-5501-4d15-af83-59ca97b2caf5"
+      ],
+      "settings": {
+        "title": "Featured In"
+      }
+    },
+    "5d74d057-941d-4abd-a702-1eebad7e0603": {
+      "type": "testimonial",
+      "blocks": {
+        "40e786b5-5e52-401f-a3ad-c862862c766b": {
+          "type": "blockContent",
+          "settings": {
+            "client_image": "shopify:\/\/shop_images\/image_13.png",
+            "client_feedback": "“ I recommend the SinuPulse Elite from Health Solution Medical Products. Our team has been using SinuPulse products as part of regular healthcare regimen. They help our players that suffer from allergies and sinus problems.\"",
+            "client_name": "Gary Vitti",
+            "designation": "Legendary Head Athletic <br>\nTrainer, Los Angeles Lakers"
+          }
+        },
+        "e61723b6-d765-4c03-92d1-c133335e43fc": {
+          "type": "blockContent",
+          "settings": {
+            "client_image": "shopify:\/\/shop_images\/image_13.png",
+            "client_feedback": "“ I recommend the SinuPulse Elite from Health Solution Medical Products. Our team has been using SinuPulse products as part of regular healthcare regimen. They help our players that suffer from allergies and sinus problems.\"",
+            "client_name": "Gary Vitti",
+            "designation": "Legendary Head Athletic <br>\nTrainer, Los Angeles Lakers"
+          }
+        },
+        "2b5abf36-1317-4428-97ba-9c8beac180e8": {
+          "type": "blockContent",
+          "settings": {
+            "client_image": "shopify:\/\/shop_images\/image_13.png",
+            "client_feedback": "“ I recommend the SinuPulse Elite from Health Solution Medical Products. Our team has been using SinuPulse products as part of regular healthcare regimen. They help our players that suffer from allergies and sinus problems.\"",
+            "client_name": "Gary Vitti",
+            "designation": "Legendary Head Athletic <br>\nTrainer, Los Angeles Lakers"
+          }
+        }
+      },
+      "block_order": [
+        "40e786b5-5e52-401f-a3ad-c862862c766b",
+        "e61723b6-d765-4c03-92d1-c133335e43fc",
+        "2b5abf36-1317-4428-97ba-9c8beac180e8"
+      ],
+      "settings": {
+        "add_class": "",
+        "title": "Real People, Real Relief",
+        "content": "The SinuPulse line of products relieve nasal congestion and sinus symptoms associated with allergies, colds, flu, and sinusitis for proven relief and long term protection."
+      }
+    },
+    "bbee244f-e585-47c7-938a-ca6a5346535c": {
+      "type": "newsletter",
+      "blocks": {
+        "template--14860016975926__bbee244f-e585-47c7-938a-ca6a5346535c-1670403547a7605e3d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Newsletter",
+            "heading_size": "h1"
+          }
+        },
+        "template--14860016975926__bbee244f-e585-47c7-938a-ca6a5346535c-1670403547a7605e3d-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Enter your email address below to join our mailing list and have our latest news.<\/p>"
+          }
+        },
+        "template--14860016975926__bbee244f-e585-47c7-938a-ca6a5346535c-1670403547a7605e3d-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--14860016975926__bbee244f-e585-47c7-938a-ca6a5346535c-1670403547a7605e3d-0",
+        "template--14860016975926__bbee244f-e585-47c7-938a-ca6a5346535c-1670403547a7605e3d-1",
+        "template--14860016975926__bbee244f-e585-47c7-938a-ca6a5346535c-1670403547a7605e3d-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "d4c12627-27d1-439e-9e4e-fc15d6ec9339",
+    "e4b53f67-4529-4b8a-8cd0-83b3cc4f8029",
+    "27b5c317-813c-49e7-8bab-5d6430d1122b",
+    "f2276c50-ac0c-4a14-8bf9-b0dde43f8f03",
+    "9d0967ff-4a14-4e07-b7ed-019994798fad",
+    "5d74d057-941d-4abd-a702-1eebad7e0603",
+    "bbee244f-e585-47c7-938a-ca6a5346535c"
+  ]
+}

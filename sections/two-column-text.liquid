@@ -1,0 +1,66 @@
+<div class="two_column_text">
+  <div class="page-width">
+    <div class="two_inn_text">
+      {% for block in section.blocks %}
+        <div class="two-column-img-flex">
+          <div class="column-left">
+            <div class="column-lft-inn">
+              {% if block.settings.content != blank %}
+                <p>
+                  {{ block.settings.content }}
+                </p>
+              {% endif %}
+            </div>
+          </div>
+          <div class="column-right">
+            {% if block.settings.right_content != blank %}
+              <p>
+                {{ block.settings.right_content }}
+              </p>
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{% schema %}
+{
+  "name": "Two Column Text",
+  "class": "two_column_text",
+  "settings": [],
+  "blocks": [
+{
+  "name": "Block Content",
+  "type": "blockContent",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Block Title"
+    },
+    {
+      "type": "textarea",
+      "id": "content",
+      "label": "Block Content"
+    },
+    {
+      "type": "textarea",
+      "id": "right_content",
+      "label": "Right Block Content"
+    }
+  ]
+}
+],
+  "presets": [
+    {
+      "name": "Two Column Text",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}
+{% stylesheet %}
+{% endstylesheet %}
+{% javascript %}
+{% endjavascript %}

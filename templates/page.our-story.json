@@ -1,0 +1,235 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": false,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "ea8912c6-5fd9-4265-aacb-908a0de090ce": {
+      "type": "inner-banner",
+      "settings": {
+        "column_image": "shopify:\/\/shop_images\/Rectangle_1.png",
+        "title": "Our Story"
+      }
+    },
+    "ec100ac1-a4c3-4aca-a4d0-0c5b4fba13c9": {
+      "type": "two-column",
+      "blocks": {
+        "5abccf78-c985-454d-ac4b-33429111af00": {
+          "type": "blockContent",
+          "settings": {
+            "section_flipped_x": "none",
+            "flex_basis": "half_column",
+            "title": "Innovation & Wellness",
+            "content": "Many customers have asked us to tell the story of our small California company with a big idea that helped launched an industry...",
+            "column_image": "shopify:\/\/shop_images\/Rectangle_57.png"
+          }
+        }
+      },
+      "block_order": [
+        "5abccf78-c985-454d-ac4b-33429111af00"
+      ],
+      "settings": {
+        "add_class": ""
+      }
+    },
+    "95fd0230-e9ed-43de-9cc8-53fb1694511b": {
+      "type": "three-column",
+      "blocks": {
+        "a263ef0f-ae80-48f3-b26f-4073ea854da2": {
+          "type": "blockContent",
+          "settings": {
+            "column_image": "shopify:\/\/shop_images\/Rectangle_58.png",
+            "title": "Where It <br> All Began",
+            "content": "It was 1986, traveling with a bad sinus infection and feeling miserable in a small Chicago hotel room. I would massage my nasal passages and sinuses to free up congestion and manually try and rinse my nose for any relief. The merry-go-round of antibiotics, antihistamines, decongestants, and steroids offered little relief. Risky surgery was the only remaining option and that has a low record of success.",
+            "sec_content": "Desperate to avoid surgery, dozens of published medical reports had already documented the superior cleansing benefits of pulsating irrigation to break down biofilm and remove bacteria especially for infections and wounds, why not the nose? At the time there were only a handful of hard to find neti pots available, that were even harder to use, messy, and provided only limited relief."
+          }
+        }
+      },
+      "block_order": [
+        "a263ef0f-ae80-48f3-b26f-4073ea854da2"
+      ],
+      "settings": {
+      }
+    },
+    "ace1b3d4-687d-463b-9319-07b47c30a892": {
+      "type": "two-column",
+      "blocks": {
+        "a1bf8d51-8a31-48f7-9e60-454acb1c4940": {
+          "type": "blockContent",
+          "settings": {
+            "section_flipped_x": "none",
+            "flex_basis": "half_column",
+            "title": "There Had to Be a Better Way!",
+            "content": "That original idea 35 years ago was the inspiration to reach out to medical experts and industry leaders to develop the Original Sinus Irrigator™. It wasn't long before we introduced the first FDA registered pulsatile nasal sinus irrigation system.",
+            "column_image": "shopify:\/\/shop_images\/Rectangle_61.png"
+          }
+        }
+      },
+      "block_order": [
+        "a1bf8d51-8a31-48f7-9e60-454acb1c4940"
+      ],
+      "settings": {
+        "add_class": ""
+      }
+    },
+    "a45726df-4072-48cb-8a13-e6ab7715d124": {
+      "type": "simple-text",
+      "settings": {
+        "content": "<span>The Original Objective Was Simple: <\/span> treat the cause, not just the symptoms, and \"Break the Cycle\". Bust away biofilm, remove bacteria, and help restore natural ciliary health for sinus relief and long term protection."
+      }
+    },
+    "ed63ac33-8065-445b-85b0-4ecc12b9822e": {
+      "type": "two-column-text",
+      "blocks": {
+        "7ff4645a-0de0-4f1f-8191-3ba657aa9816": {
+          "type": "blockContent",
+          "settings": {
+            "title": "",
+            "content": "But nasal irrigation was a hard sell when we first introduced it. Bewildered patients would often ask \"you want me to do what with that?\" However, with an early appearance on Good Morning America and the support of many physicians, hospitals, universities, and professional sports teams and athletic trainers we began to change the way patients treated their allergy and sinus problems. Many years later, after gaining incredible popularity, the category has now grown to include many copy cats and knock offs. Today too many nasal wash companies have one objective, to sell saline packets.",
+            "right_content": "Their marketing efforts and even the design of their products result in expensive proprietary saline refills that can contribute to dependency, \"The more you use it, the more you need it\". Our goal has always been to not only provide relief of symptoms, but to help address the cause of the allergy and sinus symptoms, restore the natural immune response, and \"Break the Cycle\"."
+          }
+        }
+      },
+      "block_order": [
+        "7ff4645a-0de0-4f1f-8191-3ba657aa9816"
+      ],
+      "settings": {
+      }
+    },
+    "d3588792-a239-4d0c-92de-e16d3df59a91": {
+      "type": "testimonial",
+      "blocks": {
+        "acf0cff8-89a0-4010-a031-23031e1b37d8": {
+          "type": "blockContent",
+          "settings": {
+            "client_image": "shopify:\/\/shop_images\/image_13.png",
+            "client_feedback": "“ I recommend the SinuPulse Elite from Health Solution Medical Products. Our team has been using SinuPulse products as part of regular healthcare regimen. They help our players that suffer from allergies and sinus problems.\"",
+            "client_name": "Gary Vitti",
+            "designation": "Legendary Head Athletic <br>\nTrainer, Los Angeles Lakers"
+          }
+        },
+        "8303f410-1495-4b15-bfce-12642e034ac5": {
+          "type": "blockContent",
+          "settings": {
+            "client_image": "shopify:\/\/shop_images\/image_13.png",
+            "client_feedback": "“ I recommend the SinuPulse Elite from Health Solution Medical Products. Our team has been using SinuPulse products as part of regular healthcare regimen. They help our players that suffer from allergies and sinus problems.\"",
+            "client_name": "Gary Vitti",
+            "designation": "Legendary Head Athletic <br>\nTrainer, Los Angeles Lakers"
+          }
+        },
+        "57ac219f-8340-49e8-9de7-f7ed8052378f": {
+          "type": "blockContent",
+          "settings": {
+            "client_image": "shopify:\/\/shop_images\/image_13.png",
+            "client_feedback": "“ I recommend the SinuPulse Elite from Health Solution Medical Products. Our team has been using SinuPulse products as part of regular healthcare regimen. They help our players that suffer from allergies and sinus problems.\"",
+            "client_name": "Gary Vitti",
+            "designation": "Legendary Head Athletic <br>\nTrainer, Los Angeles Lakers"
+          }
+        }
+      },
+      "block_order": [
+        "acf0cff8-89a0-4010-a031-23031e1b37d8",
+        "8303f410-1495-4b15-bfce-12642e034ac5",
+        "57ac219f-8340-49e8-9de7-f7ed8052378f"
+      ],
+      "settings": {
+        "add_class": "remove_arrow",
+        "title": "",
+        "content": ""
+      }
+    },
+    "9dc91545-6591-4df4-828b-2bdf5f1b1c65": {
+      "type": "two-column",
+      "blocks": {
+        "be1e0d7a-e247-4704-bdb5-59936781b1cb": {
+          "type": "blockContent",
+          "settings": {
+            "section_flipped_x": "none",
+            "flex_basis": "half_column",
+            "title": "Pioneering an Industry",
+            "content": "Nearly 40 years later SinuPulse® is the brand recommended most by health care professionals for pulsatile nasal irrigation. Dozens of published medical journals report pulsatile nasal sinus irrigation is one of the most effective methods to treat allergy and sinus symptoms. Little did we know, so many years ago, that we would be pioneering an industry now used by millions around the world including many imitations.",
+            "column_image": "shopify:\/\/shop_images\/Rectangle_62.png"
+          }
+        }
+      },
+      "block_order": [
+        "be1e0d7a-e247-4704-bdb5-59936781b1cb"
+      ],
+      "settings": {
+        "add_class": "pioneering_wrp"
+      }
+    },
+    "e1b6b2da-0158-49cf-b3dc-ff67b616ad07": {
+      "type": "two-column",
+      "blocks": {
+        "e13ec1e2-0311-48f6-9da6-7a8b00db1e15": {
+          "type": "blockContent",
+          "settings": {
+            "section_flipped_x": "flipped",
+            "flex_basis": "half_column",
+            "title": "Your Health Matters Most!",
+            "content": "We remain committed to that original idea many years ago to provide our customers with a healthy, natural alternative for their allergy and sinus problems. When your health matters most.... you deserve the best! Thank you to all those early customers, who helped pioneer the category with us, and our customers today for your support. Your trust that we could help change the quality of your health and willingness to tell others is responsible for our success. Given the worldwide popularity of nasal irrigation today we are truly humbled.",
+            "column_image": "shopify:\/\/shop_images\/Rectangle_61_1.png"
+          }
+        }
+      },
+      "block_order": [
+        "e13ec1e2-0311-48f6-9da6-7a8b00db1e15"
+      ],
+      "settings": {
+        "add_class": "health_wrp"
+      }
+    },
+    "7018b5bf-0eb4-4e63-a7b6-3bb318de0af4": {
+      "type": "newsletter",
+      "blocks": {
+        "template--14860057116726__7018b5bf-0eb4-4e63-a7b6-3bb318de0af4-16704386273c40b684-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Newsletter",
+            "heading_size": "h1"
+          }
+        },
+        "template--14860057116726__7018b5bf-0eb4-4e63-a7b6-3bb318de0af4-16704386273c40b684-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Enter your email address below to join our mailing list and have our latest news.<\/p>"
+          }
+        },
+        "template--14860057116726__7018b5bf-0eb4-4e63-a7b6-3bb318de0af4-16704386273c40b684-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--14860057116726__7018b5bf-0eb4-4e63-a7b6-3bb318de0af4-16704386273c40b684-0",
+        "template--14860057116726__7018b5bf-0eb4-4e63-a7b6-3bb318de0af4-16704386273c40b684-1",
+        "template--14860057116726__7018b5bf-0eb4-4e63-a7b6-3bb318de0af4-16704386273c40b684-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "ea8912c6-5fd9-4265-aacb-908a0de090ce",
+    "ec100ac1-a4c3-4aca-a4d0-0c5b4fba13c9",
+    "95fd0230-e9ed-43de-9cc8-53fb1694511b",
+    "ace1b3d4-687d-463b-9319-07b47c30a892",
+    "a45726df-4072-48cb-8a13-e6ab7715d124",
+    "ed63ac33-8065-445b-85b0-4ecc12b9822e",
+    "d3588792-a239-4d0c-92de-e16d3df59a91",
+    "9dc91545-6591-4df4-828b-2bdf5f1b1c65",
+    "e1b6b2da-0158-49cf-b3dc-ff67b616ad07",
+    "7018b5bf-0eb4-4e63-a7b6-3bb318de0af4"
+  ]
+}

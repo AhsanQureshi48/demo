@@ -1,0 +1,199 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": false,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "6a596160-df91-4a60-889a-9d5c394d072d": {
+      "type": "inner-banner",
+      "settings": {
+        "column_image": "shopify:\/\/shop_images\/Rectangle_1.png",
+        "title": "SinuPulse Products Maintenance & Troubleshooting"
+      }
+    },
+    "6e670466-439d-4dc7-bb72-ed4f5a9b82bc": {
+      "type": "video-block",
+      "settings": {
+        "add_class": "sinuplus-video-wrp video_mn_wrp",
+        "title": "SinuPulse Traveler Maintenance & Troubleshooting",
+        "sub_title": "Troubleshooting and Maintenance Tips",
+        "content": "Thank you for your purchase of our SinuPulse Traveler Cordless Nasal Sinus Irrigation System. The following FAQ and troubleshooting steps and maintenance tips will resolve most issues quickly and help ensure optimal performance."
+      }
+    },
+    "aaf87ab2-14c6-4904-b848-cc19261859d6": {
+      "type": "custom-text",
+      "blocks": {
+        "57ea1d36-6894-462b-9da9-e81eb5027df9": {
+          "type": "blockContent",
+          "settings": {
+            "title": "How do you charge the SinuPulse Traveler?",
+            "content": "The SinuPulse Traveler includes a USB global charging cord that plugs into the back of the unit. Remove the small white rubber gasket\/seal and connect the end of the cable. The other end with the USB connection fits any USB wall charger and plugged into any standard outlet. The charging system will fully charge a drained battery generally within 4 hours and and hold a charge up to 21 days. It is recommended to use a standard 5V\/1A (1000mA) universal USB wall charger to avoid possible damage to the charging port. Higher wattage, rapid wall chargers are not recommended."
+          }
+        },
+        "2bf91eea-6b10-4d1f-9202-1e64814f735c": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Don’t overdo it",
+            "content": "One of the most important things you can do to extend rechargeable battery life is to avoid overcharging. Unlike other types of batteries that need to be recharged throughout their storage time, lithium batteries do better at 40%-50% DOD (depth of discharge). Disconnect charger and device after the battery reaches full charge. Overcharging occurs when the device or battery is plugged into a charger after full charge has been reached and may reduce battery life. Recharging battery once it reaches 40-50% state-of-charge can minimize age-related capacity loss while keeping the battery in good operating condition.",
+            "image": "shopify:\/\/shop_images\/image_34.png"
+          }
+        },
+        "b4d12636-46b7-4b69-a0e7-a933b8edeb40": {
+          "type": "blockContent",
+          "settings": {
+            "title": "How do you fill the SinuPulse Traveler?",
+            "content": "The water tank can be filled two ways:\n1) The fill hole is located on the back of the water tank, simply lift cover and fill.\n2) The water tank is fully detachable. A small twist counter clockwise (Figure 1) will detach water tank from upper body for rapid fill and easy cleaning. A small twist clockwise is all that is needed to reassemble.",
+            "image": "shopify:\/\/shop_images\/image_35.png"
+          }
+        },
+        "e2f8913f-732e-4d88-bd65-0812d0b2c76a": {
+          "type": "blockContent",
+          "settings": {
+            "title": "My Traveler is working but the solution stopped midway?",
+            "content": "The water tank can be filled two ways:\n1) The fill hole is located on the back of the water tank, simply lift cover and fill.\nIf the solution stops flowing during use, it most likely is a positional issue and the supply hose that siphons the solution may not be in the remaining solution as the water tank empties if the unit is tilted too much during irrigation. It is not necessary to tilt your head to the side during irrigation with the SinuPulse Traveler and will help ensure a safer more effective irrigation over neti pots and other manual nasal wash methods that rely on gravity. This will reduce ear sensitivity and minimize any need to tilt the irrigator too much during use. Avoiding excessive tilting will help ensure that the supply hose remains in the solution during the full use as the water reservoir empties.\nHelpful tip: Ensure that the supply hose is properly positioned to the opposite side of the water tank when filled and re-assembled. This will ensure the hose remains in the solution even when the unit is tilted."
+          }
+        },
+        "f1614fba-1a02-4945-b923-54056e6da15b": {
+          "type": "blockContent",
+          "settings": {
+            "title": "My SinuPulse Traveler will not turn on or pressure is reduced?",
+            "content": "Check battery level indicator on LED display and make sure product is fully charged. If the pressure is reduced, charge with the USB charging cable until fully charged for maximum performance. As with all rechargeable cordless products performance will be reduced as battery is discharged. The Traveler will shut off after 120 seconds of continuous use to prevent overheating. The device will generally reset within 30 minutes once the motor cools down. The Traveler will not operate while plugged in.\nReminder: it is recommended to use a standard 5V\/1A (1000mA) universal USB wall charger to avoid possible damage to the charging port. Higher wattage, rapid wall chargers may cause damage to the charging port and are not recommended. If the unit shuts off due to overheating from continuous use or high wattage wall charger it will usually reset once the motor or charging port cools down.",
+            "image": "shopify:\/\/shop_images\/image_37.png"
+          }
+        },
+        "f6ed3c81-b602-4ccc-8c8e-665e04029a87": {
+          "type": "blockContent",
+          "settings": {
+            "title": "",
+            "content": "Charging related issues:\nCheck wall charger and use recommended 5V\/1A wall charger to avoid possible damage to charge port or internal circuit board.\nCheck for dust or dirt or other foreign material in your charging port, Clean the charging port an air duster, toothpick, or small toothbrush all work well.\nCheck for damaged charging port. Check port for anything unusual with the metal strips. If they are intertwined or touching separate them gently. Extra caution should be applied while handling the charging port to avoid further damage.\nCheck for loose USB cable and ensure it is fully secure in the charging port. If USB cable is damaged compatible replacement cables are available online.\nCheck for excessive moisture which can cause fault errors and once fully dry may resolve the issue.",
+            "image": "shopify:\/\/shop_images\/image_38.png"
+          }
+        },
+        "f7a45609-3329-4caf-84e4-c6b94fe7616b": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Does the nasal bulb contain latex?",
+            "content": "Our SinuPulse silicone nasal bulb is 100% latex free. The patented design utilizes a premium medical grade silicone material to ensure it is both environmentally friendly and chemically neutral. This is an important upgrade for chemically sensitive users. Replacement sinus tips are available at www.sinupulse.com Note: Any residual odor from silicone bulb trapped in the packaging will dissipate quickly once aired out, generally within 24 hours.",
+            "image": "shopify:\/\/shop_images\/image_39.png"
+          }
+        },
+        "5aae5441-acaf-46d2-8ac4-0144b9897952": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Can I use any saline in the Traveler?",
+            "content": "All of our SinuPulse models can be used with any saline products. SinuAir is an enhanced saline formulation that includes potassium and calcium salt compounds not found in other saline products. These additional salt compounds are similar to the composition of sea water and our own natural bodily fluids for maximum cleansing benefit. SinuAir moisturizes and helps maintain healthy ciliary function for comfortable clear breathing.\nSinuAir is available in 2.5g pre-measured packets (SinuAir Traveler) specifically for single serving use with the smaller capacity cordless Traveler model. SinuAir is available in our standard 5g pre-measured packets for single serving use with the larger capacity SinuPulse Elite counter top model. Both SinuAir packets are interchangeable. In addition, we offer economy refill bottles both 200g and 300g.",
+            "image": "shopify:\/\/shop_images\/image_40.png"
+          }
+        },
+        "6541d3d6-ea01-4edf-add2-55b80f8c2e0d": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Where can I purchase a replacement charging cable?",
+            "content": "The SinuPulse Traveler utilizes a universal USB charging cable available on Amazon complete with and without charging port caps.",
+            "image": "shopify:\/\/shop_images\/image_42.png"
+          }
+        },
+        "06f44d66-c9f1-4d95-91e8-ca563bdab22d": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Where can I purchase a replacement USB wall charger?",
+            "content": "The SinuPulse Traveler utilizes most any standard USB-A wall charger. A standard 5V\/1A universal USB wall charger is recommended best. Higher wattage, rapid wall chargers are not recommended to avoid damage to the charging port or internal circuit board.",
+            "image": "shopify:\/\/shop_images\/image_43.png"
+          }
+        },
+        "f170cc1e-d756-47a4-8d5b-aaa53c20cd33": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Troubleshooting Chart",
+            "content": "The SinuPulse Traveler utilizes most any standard USB-A wall charger. A standard 5V\/1A universal USB wall charger is recommended best. Higher wattage, rapid wall chargers are not recommended to avoid damage to the charging port or internal circuit board.",
+            "image": "shopify:\/\/shop_images\/image_44.png"
+          }
+        },
+        "c0d69065-392b-4ebc-8e63-fa05dcc5a05f": {
+          "type": "blockContent",
+          "settings": {
+            "title": "General Cleaning",
+            "content": "Use of saline solutions contribute to mineral and salt deposits which can accumulate in your irrigator, causing it to lose pressure and effectiveness over time. Following some simple steps will keep your SinuPulse® irrigator clean and ensure optimal performance.After each use rinse the water tank thoroughly with warm water to remove any residual saline and allow to air dry. Soap and water may also be used periodically for cleaning. It is beneficial to frequently rinse the unit after use by running through a full reservoir of pure warm water til there is no more water in the reservoir and none is being ejected from the tip. Once the water has all gone, continue to allow the unit to run for about 5 seconds, to push out any residual moisture. Be sure to wipe down the unit regularly to remove any saline solution that may have spilled on the exterior to minimize accumulation of salt deposits. Rinsing the unit periodically with dilute vinegar (3:1) every 1 -3 months is recommended to help reduce mineral deposits and calcification.It's easy to keep your SinuPulse® irrigator clean so you continue to get the maximum benefit for your sinus health."
+          }
+        },
+        "13c67b21-76ba-4531-9bd0-389f1adcc0aa": {
+          "type": "blockContent",
+          "settings": {
+            "title": "How to Decalcify and Disinfect your SinuPulse Traveler® in 4 Easy Steps",
+            "content": "Mineral deposits and other materials can collect in your SinuPulse irrigator, causing it to lose pressure and effectiveness. Here are 5 steps for simple cleaning with water and vinegar to keep your SinuPulse irrigator performing at its best. Complete this process every 1-3 months to ensure optimal performance.\n<ul>\n<li>\nClean the outside of the unit\n<\/li>\n<li>\nClean the water reservoir\n<\/li>\n<li>\nClean the internal parts\n<\/li>\n<li>\nClean the sinus irrigator tip\n<\/li>\n<\/ul>"
+          }
+        },
+        "db89021e-2e6f-40dc-8a9d-5dd12ac5decd": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Step 1: Clean the Outside of the Unit",
+            "content": "Clean the outside of the product when necessary by using a soft cloth and mild non-abrasive cleanser."
+          }
+        },
+        "bd3365b4-41e7-4071-9cb9-ab8da8e526ad": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Step 2: Clean the Water Reservoir",
+            "content": "<ul>\n<li>\nTwist to remove the lower water reservoir from the main unit.\n<\/li>\n<li>\nRinse reservoir by hand with warm soapy water\n<\/li>\n<\/ul>"
+          }
+        },
+        "e68d516e-03a3-4868-82f8-3ebb53532b9f": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Step 3: Clean the Internal Parts",
+            "content": "<ul>\n<li>\nPrepare a 3:1 dilute white vinegar solution with warm water.\n<\/li>\n<li>\nRun this solution through the unit until the reservoir is empty.\n<\/li>\n<li>\nRinse by repeating with a full reservoir of clean warm water.\n<\/li>\n<\/ul>"
+          }
+        },
+        "a0f4a8aa-15a4-47da-9869-9e16cf17ade9": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Step 4: Clean the SinuPulse Sinus Tip",
+            "content": "<ul>\n<li>\nRemove the tip from the unit using the tip release.\n<\/li>\n<li>\nSoak the SinuPulse tip in a container of dilute white vinegar solution (3:1) for 5 minutes.\n<\/li>\n<li>\nRinse the sinus tip under warm water.\n<\/li>\n<\/ul>"
+          }
+        },
+        "261cfd93-89b4-4504-9ae6-0d63d278d5d4": {
+          "type": "blockContent",
+          "settings": {
+            "title": "",
+            "content": "Following these steps will help ensure proper operation and optimal performance.It's easy to keep your SinuPulse® Nasal Sinus Irrigator clean so you continue to get the maximum benefit for your sinus health. If you have other product questions, check out our Product Support (FAQ) and Product Manuals.\n<br><br>\n<b>REMINDER:<\/b> THE WATER TANK IS NOT INTENDED TO STORE LIQUIDS. EMPTY WATER TANK AFTER EACH USE."
+          }
+        }
+      },
+      "block_order": [
+        "57ea1d36-6894-462b-9da9-e81eb5027df9",
+        "2bf91eea-6b10-4d1f-9202-1e64814f735c",
+        "b4d12636-46b7-4b69-a0e7-a933b8edeb40",
+        "e2f8913f-732e-4d88-bd65-0812d0b2c76a",
+        "f1614fba-1a02-4945-b923-54056e6da15b",
+        "f6ed3c81-b602-4ccc-8c8e-665e04029a87",
+        "f7a45609-3329-4caf-84e4-c6b94fe7616b",
+        "5aae5441-acaf-46d2-8ac4-0144b9897952",
+        "6541d3d6-ea01-4edf-add2-55b80f8c2e0d",
+        "06f44d66-c9f1-4d95-91e8-ca563bdab22d",
+        "f170cc1e-d756-47a4-8d5b-aaa53c20cd33",
+        "c0d69065-392b-4ebc-8e63-fa05dcc5a05f",
+        "13c67b21-76ba-4531-9bd0-389f1adcc0aa",
+        "db89021e-2e6f-40dc-8a9d-5dd12ac5decd",
+        "bd3365b4-41e7-4071-9cb9-ab8da8e526ad",
+        "e68d516e-03a3-4868-82f8-3ebb53532b9f",
+        "a0f4a8aa-15a4-47da-9869-9e16cf17ade9",
+        "261cfd93-89b4-4504-9ae6-0d63d278d5d4"
+      ],
+      "settings": {
+        "add_class": "sinuplus-maintenance-wrp sinuplus-travel-maintenance",
+        "title": "",
+        "content": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "6a596160-df91-4a60-889a-9d5c394d072d",
+    "6e670466-439d-4dc7-bb72-ed4f5a9b82bc",
+    "aaf87ab2-14c6-4904-b848-cc19261859d6"
+  ]
+}

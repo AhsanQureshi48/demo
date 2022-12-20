@@ -1,0 +1,90 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": false,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "93ff5b72-3e80-4241-9437-b77683fb0970": {
+      "type": "inner-banner",
+      "settings": {
+        "column_image": "shopify:\/\/shop_images\/Rectangle_1.png",
+        "title": "Frequently Asked Questions"
+      }
+    },
+    "a7732b83-8d07-4a73-9b7f-1bf7f9cb3e60": {
+      "type": "faq-section",
+      "blocks": {
+        "8f6e7961-ab01-4dbf-99f5-982e90773358": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Why should I care about my nose?",
+            "textarea": "Our nose is part of a wonderfully designed system that protects our nasal passages from outside irritants. This \"system\" is covered with microscopic hair-like structures called cilia that pulsate and clear foreign substances from your nasal membranes and out of your sinus passages. When your immune system reacts to an allergen, the mucous produced by your body becomes thick and sticky. When this occurs, your cilia are covered up by this thicker mucus and are unable to move freely to clear the membranes. In effect, the cilia become stagnant, immobile and ineffective at helping you clear out foreign substances and infections. Historically, many cultures & people have used nasal irrigation in an attempt to find relief from clogged nasal passages."
+          }
+        },
+        "d2dd1308-c668-4a68-94c9-66c3557477e7": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Are all forms of nasal irrigation equal?",
+            "textarea": "Our nose is part of a wonderfully designed system that protects our nasal passages from outside irritants. This \"system\" is covered with microscopic hair-like structures called cilia that pulsate and clear foreign substances from your nasal membranes and out of your sinus passages. When your immune system reacts to an allergen, the mucous produced by your body becomes thick and sticky. When this occurs, your cilia are covered up by this thicker mucus and are unable to move freely to clear the membranes. In effect, the cilia become stagnant, immobile and ineffective at helping you clear out foreign substances and infections. Historically, many cultures & people have used nasal irrigation in an attempt to find relief from clogged nasal passages."
+          }
+        },
+        "2f14e9a1-52f6-44fd-a56c-c22a318aa6a7": {
+          "type": "blockContent",
+          "settings": {
+            "title": "How do the SinuPulse products work and what exactly is pulsating nasal irrigation?",
+            "textarea": "Our nose is part of a wonderfully designed system that protects our nasal passages from outside irritants. This \"system\" is covered with microscopic hair-like structures called cilia that pulsate and clear foreign substances from your nasal membranes and out of your sinus passages. When your immune system reacts to an allergen, the mucous produced by your body becomes thick and sticky. When this occurs, your cilia are covered up by this thicker mucus and are unable to move freely to clear the membranes. In effect, the cilia become stagnant, immobile and ineffective at helping you clear out foreign substances and infections. Historically, many cultures & people have used nasal irrigation in an attempt to find relief from clogged nasal passages."
+          }
+        },
+        "06d4a93a-db9d-4899-9241-9ed3cafdd217": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Is pulsating Irrigation unpleasant or painful?",
+            "textarea": "Our nose is part of a wonderfully designed system that protects our nasal passages from outside irritants. This \"system\" is covered with microscopic hair-like structures called cilia that pulsate and clear foreign substances from your nasal membranes and out of your sinus passages. When your immune system reacts to an allergen, the mucous produced by your body becomes thick and sticky. When this occurs, your cilia are covered up by this thicker mucus and are unable to move freely to clear the membranes. In effect, the cilia become stagnant, immobile and ineffective at helping you clear out foreign substances and infections. Historically, many cultures & people have used nasal irrigation in an attempt to find relief from clogged nasal passages."
+          }
+        },
+        "fe018575-bb24-4678-9e67-6a3a6bd70609": {
+          "type": "blockContent",
+          "settings": {
+            "title": "What types of water are safe to use in nasal rinsing devices?",
+            "textarea": "Our nose is part of a wonderfully designed system that protects our nasal passages from outside irritants. This \"system\" is covered with microscopic hair-like structures called cilia that pulsate and clear foreign substances from your nasal membranes and out of your sinus passages. When your immune system reacts to an allergen, the mucous produced by your body becomes thick and sticky. When this occurs, your cilia are covered up by this thicker mucus and are unable to move freely to clear the membranes. In effect, the cilia become stagnant, immobile and ineffective at helping you clear out foreign substances and infections. Historically, many cultures & people have used nasal irrigation in an attempt to find relief from clogged nasal passages."
+          }
+        },
+        "43e821d0-b14b-4b99-86b9-5904d51eae11": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Can I use any saline product, or do I have to use SinuAir?",
+            "textarea": "Our nose is part of a wonderfully designed system that protects our nasal passages from outside irritants. This \"system\" is covered with microscopic hair-like structures called cilia that pulsate and clear foreign substances from your nasal membranes and out of your sinus passages. When your immune system reacts to an allergen, the mucous produced by your body becomes thick and sticky. When this occurs, your cilia are covered up by this thicker mucus and are unable to move freely to clear the membranes. In effect, the cilia become stagnant, immobile and ineffective at helping you clear out foreign substances and infections. Historically, many cultures & people have used nasal irrigation in an attempt to find relief from clogged nasal passages."
+          }
+        },
+        "2e0f0d5f-db03-4136-ac50-9760da6d9ae9": {
+          "type": "blockContent",
+          "settings": {
+            "title": "Are the SinuPulse products difficult, inconvenient, or messy to use?",
+            "textarea": "Our nose is part of a wonderfully designed system that protects our nasal passages from outside irritants. This \"system\" is covered with microscopic hair-like structures called cilia that pulsate and clear foreign substances from your nasal membranes and out of your sinus passages. When your immune system reacts to an allergen, the mucous produced by your body becomes thick and sticky. When this occurs, your cilia are covered up by this thicker mucus and are unable to move freely to clear the membranes. In effect, the cilia become stagnant, immobile and ineffective at helping you clear out foreign substances and infections. Historically, many cultures & people have used nasal irrigation in an attempt to find relief from clogged nasal passages."
+          }
+        }
+      },
+      "block_order": [
+        "8f6e7961-ab01-4dbf-99f5-982e90773358",
+        "d2dd1308-c668-4a68-94c9-66c3557477e7",
+        "2f14e9a1-52f6-44fd-a56c-c22a318aa6a7",
+        "06d4a93a-db9d-4899-9241-9ed3cafdd217",
+        "fe018575-bb24-4678-9e67-6a3a6bd70609",
+        "43e821d0-b14b-4b99-86b9-5904d51eae11",
+        "2e0f0d5f-db03-4136-ac50-9760da6d9ae9"
+      ],
+      "settings": {
+        "title": "Frequently Asked Questions"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "93ff5b72-3e80-4241-9437-b77683fb0970",
+    "a7732b83-8d07-4a73-9b7f-1bf7f9cb3e60"
+  ]
+}
